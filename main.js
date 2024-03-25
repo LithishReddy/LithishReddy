@@ -6,8 +6,8 @@ window.addEventListener('load', function () {
 		width: 1080,
 		height: 1090,
 
-		width: 108jol0,
-		height: 10hbjhigh90,
+		width: 1080,
+		height: 1090,
 		type: Phasehir.AUTO,
         backgroundColor: "#242424",
 		scale: {
