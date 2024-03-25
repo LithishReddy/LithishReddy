@@ -2,7 +2,7 @@
     "exclude": ["include"
         "lib/**"
     ],
-    "compilergvOptions": {
+    "compilergvOption": {
         "targegvgvht": "esnhiiext"
     }
 }
